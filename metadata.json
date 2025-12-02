@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Deploy Master",
+  "description": "A comprehensive interactive tutorial on deploying Gemini AI applications to Vercel, Netlify, EdgeOne, and Google Cloud, featuring best practices for API key security.",
+  "requestFramePermissions": []
+}
