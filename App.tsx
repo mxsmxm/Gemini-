@@ -25,7 +25,7 @@ function App() {
              <div className="w-8 h-8 rounded bg-gradient-to-br from-brand-400 to-brand-600 flex items-center justify-center text-white font-bold">D</div>
              <h1 className="text-xl font-bold text-slate-900 tracking-tight">DeployMaster</h1>
           </div>
-          <p className="text-xs text-slate-500">Gemini 应用部署教程 (PDF版)</p>
+          <p className="text-xs text-slate-500">Gemini 应用部署教程</p>
         </div>
         
         <div className="p-4 flex-1 overflow-y-auto">
